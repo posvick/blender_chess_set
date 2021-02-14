@@ -1,6 +1,7 @@
 square ........ 2,25 inches ................ 5,72 cm
 king height ... 3,75 inches (278 pixels) ... 9,53 cm ... base diameter 1,66 inches (4,22 cm)
 pawn size ..... 2,27 inches (168 pixels) ... 5,77 cm ... base diameter (2,86 cm)
+queen size ....      inches (    pixels) ...      cm ... base diameter (4,00 cm)
 ---------------
 (USCF standard)
 https://www.chess.com/article/view/chess-board-dimensions
